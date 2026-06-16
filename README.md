@@ -3,7 +3,7 @@
 
 ## 📌 À propos
 - Bilingue (Français/Anglais)
-- En apprentissage à l'École Technique, École des Métiers de Lausanne, en Suisse
+- En apprentissage à l'École Technique, École des Métiers de Lausanne, Suisse
 - Aime lire
 
 
