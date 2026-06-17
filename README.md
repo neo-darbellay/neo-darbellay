@@ -4,7 +4,7 @@
 ## 📌 À propos
 - Bilingue (Français/Anglais)
 - En apprentissage à l'École Technique, École des Métiers de Lausanne, Suisse
-- Aime lire
+- Aime lire, coder et écouter de la musique
 
 
 ## 📊 GitHub Stats
