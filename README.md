@@ -6,6 +6,16 @@
 - En apprentissage à l'École Technique, École des Métiers de Lausanne, Suisse
 - Aime lire, coder et écouter de la musique
 
+## ⭐ Projets phares
+
+<p align="center">
+  <a href="https://github.com/neo-darbellay/Craft-Me-Up">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neo-darbellay&repo=Craft-Me-Up&theme=transparent&border_radius=12" alt="P_Arcade" />
+  </a>
+  <a href="https://github.com/neo-darbellay/P_Arcade">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neo-darbellay&repo=P_Arcade&theme=transparent&border_radius=12" alt="P_Arcade" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -13,7 +23,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neo-darbellay&locale=fr&include_all_commits=true&layout=compact&theme=transparent&border_radius=12" alt="Mes statistiques GitHub" />
   </a>
 </p>
-
 
 ## 🛠️ Langages & Outils
 
@@ -47,16 +56,5 @@
 <p align="center">
   <a href="https://github.com/neo-darbellay">
     <img height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-darbellay&layout=donut&locale=fr&langs_count=8&theme=transparent&border_radius=12" alt="Langages les plus utilisés" />
-  </a>
-</p>
-
-## ⭐ Projets phares
-
-<p align="center">
-  <a href="https://github.com/neo-darbellay/Craft-Me-Up">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neo-darbellay&repo=Craft-Me-Up&theme=transparent&border_radius=12" alt="P_Arcade" />
-  </a>
-  <a href="https://github.com/neo-darbellay/P_Arcade">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neo-darbellay&repo=P_Arcade&theme=transparent&border_radius=12" alt="P_Arcade" />
   </a>
 </p>
