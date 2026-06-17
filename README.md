@@ -10,7 +10,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/neo-darbellay">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=neo-darbellay&cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="neo-darbellay's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neo-darbellay&locale=fr&include_all_commits=true&layout=compact&theme=vue&border_radius=10" alt="Mes statistiques GitHub" />
   </a>
 </p>
 
@@ -46,7 +46,6 @@
 
 <p align="center">
   <a href="https://github.com/neo-darbellay">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neo-darbellay&langs_count=8&layout=compact&theme=vue&border_radius=10" alt="Top Languages" />
+    <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-darbellay&layout=donut-vertical&locale=fr&langs_count=8&theme=vue&border_radius=10" alt="Langages les plus utilisés" />
   </a>
 </p>
-
