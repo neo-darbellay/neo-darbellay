@@ -10,7 +10,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/neo-darbellay">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neo-darbellay&locale=fr&include_all_commits=true&layout=compact&theme=transparent&border_radius=10" alt="Mes statistiques GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neo-darbellay&locale=fr&include_all_commits=true&layout=compact&theme=transparent&border_radius=8" alt="Mes statistiques GitHub" />
   </a>
 </p>
 
@@ -46,17 +46,17 @@
 
 <p align="center">
   <a href="https://github.com/neo-darbellay">
-    <img height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-darbellay&layout=donut&locale=fr&langs_count=8&theme=transparent&border_radius=10" alt="Langages les plus utilisés" />
+    <img height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-darbellay&layout=donut&locale=fr&langs_count=8&theme=transparent&border_radius=8" alt="Langages les plus utilisés" />
   </a>
 </p>
 
 ## ⭐ Projets phares
 
 <p align="center">
-  <a href="https://github.com/Jonathan150408/Craft-Me-Up">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan150408&repo=Craft-Me-Up&theme=transparent&border_radius=10" alt="P_Arcade" />
+  <a href="https://github.com/neo-darbellay/Craft-Me-Up">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neo-darbellay&repo=Craft-Me-Up&theme=transparent&border_radius=8" alt="P_Arcade" />
   </a>
   <a href="https://github.com/neo-darbellay/P_Arcade">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neo-darbellay&repo=P_Arcade&theme=transparent&border_radius=10" alt="P_Arcade" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neo-darbellay&repo=P_Arcade&theme=transparent&border_radius=8" alt="P_Arcade" />
   </a>
 </p>
