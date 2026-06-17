@@ -46,6 +46,6 @@
 
 <p align="center">
   <a href="https://github.com/neo-darbellay">
-    <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-darbellay&layout=donut-vertical&locale=fr&langs_count=8&theme=vue&border_radius=10" alt="Langages les plus utilisés" />
+    <img height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-darbellay&layout=donut&locale=fr&langs_count=8&theme=vue&border_radius=10" alt="Langages les plus utilisés" />
   </a>
 </p>
